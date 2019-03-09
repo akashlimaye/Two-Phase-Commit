@@ -1,0 +1,8 @@
+Apr 02, 2018 1:43:36 PM Coordinator requestVoteButtonActionPerformed
+INFO: WAIT
+Apr 02, 2018 1:43:42 PM Coordinator$4 run
+INFO: nak mukaABORT
+Apr 02, 2018 1:43:55 PM Coordinator requestVoteButtonActionPerformed
+INFO: WAIT
+Apr 02, 2018 1:44:01 PM Coordinator$4 run
+INFO: chintu podaCOMMIT
